@@ -2,3 +2,5 @@ Foo
 ===
 
 Test Repo
+
+*CommitTest*
